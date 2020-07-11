@@ -24,6 +24,7 @@ footer {
 header{
     margin-top: 16px ;
     margin-bottom: 48px ;
+    color: #250b35;
 }
 
 h1{
@@ -50,7 +51,7 @@ input{
 button{
     cursor: pointer;
     border: 1px solid #888888;
-    background: #888888;
+    background: #1000f0;
     color: white;
     padding: 8px;   
 }
